@@ -1,3 +1,15 @@
+---
+title: "一些有趣的blog"
+description: "看到的一些有趣内容，顺便留存！"
+author: dulmcn
+date: 2024-09-28 14:45:00 +0800
+categories: 
+tags: [blog]
+pin: true
+math: true
+mermaid: true
+---
+
 # 一些有趣的 blog
 - https://zhou-yuxin.github.io/ : 没有 CSS，酷炫的不得了
 - https://zorrozou.github.io/ : 主要是 Linux 相关的
